@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayuriramesh&label=Profile%20views&color=0e75b6&style=flat" alt="mayuriramesh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayuriramesh" alt="mayuriramesh" /></a> </p>
-
 - 🔭Currently I'm engrossed in the **pursuit of learning.**
 
 - 📝 I write articles on [https://medium.com/@mayurigurle1996](https://medium.com/@mayurigurle1996)
